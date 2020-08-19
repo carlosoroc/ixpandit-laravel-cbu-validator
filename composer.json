@@ -8,7 +8,7 @@
         "validator",
         "laravel"
     ],
-    "homepage": "https://github.com/ReservaDelNorte/ixpandit-laravel-cbu-validator",
+    "homepage": "https://github.com/carlosoroc/ixpandit-laravel-cbu-validator",
     "license": "MIT",
     "authors": [
         {
